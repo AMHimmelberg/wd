@@ -1,0 +1,17 @@
+##markdown_report
+
+#this is my first rmd created within the *shell*
+
+it contains:
+
+- a list
+- with two items
+
+and a numbered list
+
+1. Like this
+2. Like that
+
+**cheers**
+
+
